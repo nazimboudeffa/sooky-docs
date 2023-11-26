@@ -1,4 +1,4 @@
-# sooky-docs
+# Sooky project documentation
 
 This is the documentation of [SOOKY-API](https://github.com/nazimboudeffa/sooky-api)
 
