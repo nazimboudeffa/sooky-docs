@@ -1,5 +1,7 @@
 # sooky-docs
 
+This is the documentation of [SOOKY-API](https://github.com/nazimboudeffa/sooky-api)
+
 Follow the steps of creating a MongoDB instance
 
 When finished
